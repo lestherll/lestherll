@@ -9,5 +9,8 @@ I'm looking for projects to work on. I don't have a lot of experience yet althou
 ![Lesther's github stats](https://github-readme-stats.vercel.app/api?username=lestherll&show_icons=true&theme=nord)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lesther-llacuna/" alt="Linkedin"><img src="https://raw.githubusercontent.com/lestherll/lestherll/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+  <a href="https://www.linkedin.com/in/lesther-llacuna/" alt="Linkedin">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
+    LinkedIn
+  </a>
 </p>
