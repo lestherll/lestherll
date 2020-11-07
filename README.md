@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lesther. I am 19.
+I'm Lesther. I'm 19.
 I'm currently a stage 1 Computer Science student at Newcastle University, UK.
 I'm looking for projects to work on. I don't have a lot of experience yet although I can tell you that I am very hardworking, reliable, and willing to learn.
 
