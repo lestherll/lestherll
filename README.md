@@ -10,7 +10,7 @@ Python is my first language, and have been trying to learn Java.
 
 ![Lesther's github stats](https://github-readme-stats.vercel.app/api?username=lestherll&show_icons=true&theme=nord)
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/lesther-llacuna/" alt="Linkedin">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
     LinkedIn
