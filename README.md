@@ -2,11 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lestherll)
 
-I'm Lesther. I'm 19.
+I'm Lesther.
 I'm currently a stage 1 Computer Science student at Newcastle University, UK.
 I'm looking for projects to work on. I don't have a lot of experience yet although I can tell you that I am very hardworking, reliable, and willing to learn.
 
-Python is my first language, and have been trying to learn Java.
+Python is my first language, and also learning Java at the moment.
 
 ![Lesther's github stats](https://github-readme-stats.vercel.app/api?username=lestherll&show_icons=true&theme=nord)
 
