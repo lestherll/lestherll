@@ -9,7 +9,7 @@ I'm looking for projects to work on. I don't have a lot of experience yet althou
 Python is my strongest language. I am also proficient at Java.
 Java is part of my course together with Go and C.
 
-I have been learning Elm and Kotlin, just to explore other paradigms.
+I have been learning Elm, Julia, and Kotlin, just to explore other paradigms.
 
 ![Lesther's github stats](https://github-readme-stats.vercel.app/api?username=lestherll&show_icons=true&theme=nord)
 
