@@ -1,14 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lestherll)
+I'm a stage 2 Computer Science student at Newcastle University.
 
-I am Lesther.
-I am a stage 2 Computer Science student at Newcastle University currently working on a chess game using arcade lib on Python.
+- I use Python whenever I can. 
+- I am proficient enough to write useful programs with Java.
+- 
+- My interests also include Julia and Kotlin.
 
-Python is my strongest language. I am also proficient at Java.
-Java is part of my course together with Go and C.
-
-My interests also include Julia and Kotlin.
+### Projects planned for the summer:
+#### Current: BF Interpreter and Chess Engine
+- BF Interpreter
+- Chess Engine and possibly a GUI for it in Python
+- CHIP-8 Emulator possibly in C or Rust
+- Tetris in Python
+- Space Invaders clone in any language  
+- Calculator Interpreter/Language
 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ljllacuna5@gmail.com)
