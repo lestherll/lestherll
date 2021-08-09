@@ -3,7 +3,7 @@
 I'm a stage 2 Computer Science student at Newcastle University.
 
 - I use Python whenever I can. 
-- I am proficient enough to write useful programs with Java.
+- I'm proficient enough to write useful programs with Java.
 - My interests also include Julia and Kotlin.
 
 ### Projects planned for the summer:
@@ -17,6 +17,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ljllacuna5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesther-llacuna/)
 [![Melio's :: Playlist](https://img.shields.io/badge/Spotify-Melio's%20%3A%3A%20Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/1Zsp79YdKbeY6YgG7t6IYH)
 
 
