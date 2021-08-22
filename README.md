@@ -12,7 +12,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - Tetris in Python
 - Space Invaders clone in any language
 - Calculator Interpreter/Language
-- - ~~BF Interpreter~~
+- ~~BF Interpreter~~
 
 ### Projects further in the future
 - Compiler/Interpreter
