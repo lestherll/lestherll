@@ -7,13 +7,17 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - My interests also include Julia and Kotlin.
 
 ### Projects planned for the summer (bold means working on it):
-- **BF Interpreter** 
 - **Chess Engine and possibly a GUI for it in Python**
 - CHIP-8 Emulator possibly in C or Rust
 - Tetris in Python
 - Space Invaders clone in any language
 - Calculator Interpreter/Language
+- - ~~BF Interpreter~~
 
+### Projects further in the future
+- Compiler/Interpreter
+- Programming Language
+- Operating System
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ljllacuna5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesther-llacuna/)
