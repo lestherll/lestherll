@@ -11,7 +11,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - CHIP-8 Emulator possibly in C or Rust
 - Tetris in Python
 - Space Invaders clone in any language
-- Calculator Interpreter/Language
+- ~~Calculator mini language~~
 - ~~BF Interpreter~~
 
 ### Projects further in the future
