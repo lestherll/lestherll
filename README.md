@@ -4,7 +4,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 
 - I use Python whenever I can. 
 - I'm proficient enough to write useful programs with Java.
-- My interests also include Julia and Kotlin.
+- My interests also include Julia, Kotlin, and C.
 
 ### Projects planned for the summer (bold means working on it):
 - **Chess Engine and possibly a GUI for it in Python**
