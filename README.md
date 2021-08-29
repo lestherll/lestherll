@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 I'm a stage 2 Computer Science student at Newcastle University.
 
