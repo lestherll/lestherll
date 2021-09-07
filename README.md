@@ -20,7 +20,6 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - Operating System
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ljllacuna5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesther-llacuna/)
 [![Melio's :: Playlist](https://img.shields.io/badge/Spotify-Melio's%20%3A%3A%20Playlist-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/1Zsp79YdKbeY6YgG7t6IYH)
 
 
