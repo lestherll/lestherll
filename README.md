@@ -4,15 +4,14 @@ I'm a stage 2 Computer Science student at Newcastle University.
 
 - I use Python whenever I can. 
 - I'm proficient enough to write useful programs with Java.
-- My interests also include Julia, Kotlin, and C.
+- My interests also include Julia, Scala, Kotlin, and C.
 
-### Projects planned for the summer (bold means working on it):
+### Projects planned:
 - **Chess Engine and possibly a GUI for it in Python**
 - CHIP-8 Emulator possibly in C or Rust
 - Tetris in Python
 - Space Invaders clone in any language
-- ~~Calculator mini language~~
-- ~~BF Interpreter~~
+- Befunge Interpreter in Scala
 
 ### Projects further in the future
 - Compiler/Interpreter
