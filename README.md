@@ -26,5 +26,4 @@ I'm a stage 2 Computer Science student at Newcastle University.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lestherll&show_icons=true&theme=gruvbox&hide_border=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestherll&layout=compact&card_width=250&hide_border=true&theme=gruvbox&hide=dhall,html"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestherll&hide_border=true&theme=gruvbox&hide=dhall,html,brainfuck"/>
