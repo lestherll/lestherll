@@ -5,7 +5,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - I use Python whenever I can. 
 - I'm proficient enough to write useful programs with Java.
 - My interests include Programming Language Theory and Theory of Computation
-- Current learning Scala, Julia, Functional Programming
+- Currently learning Scala, Julia, Functional Programming
 
 ### Projects planned:
 - **Chess Engine and possibly a GUI for it in Python**
