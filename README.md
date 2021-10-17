@@ -10,8 +10,6 @@ I'm a stage 2 Computer Science student at Newcastle University.
 ### Projects planned:
 - **Chess Engine and possibly a GUI for it in Python** (not done)
 - CHIP-8 Emulator possibly in C or Rust
-- Tetris in Python
-- Space Invaders clone in any language
 - **Befunge Interpreter in Scala** (needs polish, testing, debugging)
 
 ### Projects further in the future
