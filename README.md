@@ -11,6 +11,7 @@ I'm a stage 2 Computer Science student at Newcastle University.
 - **Chess Engine and possibly a GUI for it in Python** (not done)
 - CHIP-8 Emulator possibly in C or Rust
 - **Befunge Interpreter in Scala** (needs polish, testing, debugging)
+- TOTP implementation
 
 ### Projects further in the future
 - Compiler/Interpreter
