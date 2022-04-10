@@ -4,13 +4,14 @@ Computer Science student @ Newcastle University.
 
 - Proficient in Python and Java.
 - My interests include Programming Language Theory and Theory of Computation
-- Learning Scala, Julia, Rust, Functional Programming
+- Learning Scala, Go, Julia, Rust, Functional Programming
 
 ### Projects planned:
 - **Chess Engine and possibly a GUI for it in Python** (not done)
 - **Befunge Interpreter in Scala** (needs polish, testing, debugging)
 - CHIP-8 Emulator
-- TOTP implementation
+- [TOTP implementation](https://datatracker.ietf.org/doc/html/rfc6238)
+- [FTP implementation](https://datatracker.ietf.org/doc/html/rfc354)
 
 ### Projects further in the future
 - Compiler/Interpreter
