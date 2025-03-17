@@ -1,8 +1,10 @@
 # Hello 👋
 
-Software engineer specializing in scalable backend systems, cloud architecture, and API development with experience in FinTech and Digital Consulting.
-
 I build reliable, high-performance solutions that grow with your business.
+
+* Software engineer specializing in scalable backend systems, cloud architecture, and API development
+* With experience in FinTech and Digital Consulting
+
 
 
 Contact me for opportunities
